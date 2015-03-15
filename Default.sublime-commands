@@ -1,0 +1,6 @@
+[
+  {
+    "caption": "Jade Utils: paste HTML converting it to Jade",
+    "command": "jade_utils_html"
+  }
+]
